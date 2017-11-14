@@ -3,6 +3,6 @@ typeof "const currentUser = 'Grace Hopper';";
 
 "const currentUser = 'Grace Hopper';".length;
 const  currentUser = 'Grace Hopper';
-const welcomeMessage = 'Welcome to Flatbook, ${currentUser}!';
+const welcomeMessage = `Welcome to Flatbook, ${currentUser}!`;
 const excitedWelcomeMessage = welcomeMessage.toUpperCase();
 //
